@@ -1,0 +1,6 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figure_ClassLibrary\bin\Debug\Figure_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figure_ClassLibrary\bin\Debug\Figure_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figure_ClassLibrary\obj\Debug\Figure_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figure_ClassLibrary\obj\Debug\Figure_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figure_ClassLibrary\obj\Debug\Figure_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figure_ClassLibrary\obj\Debug\Figure_ClassLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\bin\Debug\Figures_ConsoleApp.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\bin\Debug\Figures_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\bin\Debug\Figures_ConsoleApp.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\bin\Debug\Figure_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\bin\Debug\Figure_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\obj\Debug\Figures_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\obj\Debug\Figures_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\obj\Debug\Figures_ConsoleApp.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\obj\Debug\Figures_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\DelegateFigures\Figures_ConsoleApp\Figures_ConsoleApp\obj\Debug\Figures_ConsoleApp.pdb

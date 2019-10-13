@@ -1,0 +1,7 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\LINQ_DZ\LINQ_DZ_ConsoleApp\LINQ_DZ_ConsoleApp\bin\Debug\LINQ_DZ_ConsoleApp.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\LINQ_DZ\LINQ_DZ_ConsoleApp\LINQ_DZ_ConsoleApp\bin\Debug\LINQ_DZ_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\LINQ_DZ\LINQ_DZ_ConsoleApp\LINQ_DZ_ConsoleApp\bin\Debug\LINQ_DZ_ConsoleApp.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\LINQ_DZ\LINQ_DZ_ConsoleApp\LINQ_DZ_ConsoleApp\obj\Debug\LINQ_DZ_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\LINQ_DZ\LINQ_DZ_ConsoleApp\LINQ_DZ_ConsoleApp\obj\Debug\LINQ_DZ_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\LINQ_DZ\LINQ_DZ_ConsoleApp\LINQ_DZ_ConsoleApp\obj\Debug\LINQ_DZ_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\LINQ_DZ\LINQ_DZ_ConsoleApp\LINQ_DZ_ConsoleApp\obj\Debug\LINQ_DZ_ConsoleApp.pdb
